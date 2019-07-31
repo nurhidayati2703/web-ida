@@ -1,0 +1,190 @@
+.header-color {
+	background: #1793c9 !important;
+}
+
+.btn-login {    
+    background-color: #1793c9 !important;
+    font-size: 14px !important;
+}
+
+.btn-login a {
+	color: #fff !important;
+}
+
+.btn-dual-secondary {color: #ffffff;}
+.btn-dual-secondary:hover {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+    box-shadow: none;
+}
+
+.table thead th {
+    border-top: none;
+    border-bottom: none;
+    font-weight: 600;
+    text-transform: none !important;
+}
+
+.page-item.active .page-link {
+    z-index: 2;
+    color: #fff;
+    background-color: #1793c9;
+    border-color: #1793c9;
+}
+.page-link {
+    height: 34px;
+    line-height: 16px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.page-link {
+    position: relative;
+    display: block;
+    padding: 10px 10px;
+    color: #171717;
+    background-color: #f5f6f7;
+    border: 1px solid #D8D8D8;
+	margin-left:10px !important;
+	border-radius: .25rem;
+}
+.page-item:first-child .page-link {
+    margin-left: 0;
+    border-radius: .25rem;
+}
+
+.app-login {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.btn-primary {
+    background-color: #1793c9;
+    border-color: #1793c9;
+    color: #ffffff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: #0a80b5;
+    border-color: #0a80b5;
+}
+
+.page-container {
+    width: 100%;
+    display: flex;
+    flex-grow: 1;
+
+}
+
+.app-login-box {
+    background-color: white;
+    box-shadow: 0px 0px 25px -10px rgba(30, 30, 30, 0.75);
+    border-radius: 4px;
+}
+
+.page-container .login-page {
+    min-height: 100%;
+}
+
+.login-page {
+    /* background-color: rgb(21, 42, 68); */
+    background: url("../img/slide11.jpg") no-repeat;
+    background-position: 25% center;
+    background-size: cover;
+}
+
+.logo img {
+    display: block;
+    max-width: 200px;
+    width: 44.4444%;
+    /* max-height: 8em; */
+    margin: 0 auto 1em;
+}
+
+.nav-main a.active > i, .nav-main a:focus > i, .nav-main a:hover > i, .sidebar-inverse #sidebar .nav-main a.active > i, .sidebar-inverse #sidebar .nav-main a:focus > i, .sidebar-inverse #sidebar .nav-main a:hover > i {
+    color: #fff;
+}
+
+.sidebar-inverse #sidebar .nav-main.nav-submenu a.active, .sidebar-inverse #sidebar .nav-main.nav-submenu a:focus, .sidebar-inverse #sidebar .nav-main.nav-submenu a:hover {
+	border-left: 0px solid #1793c9;
+	background: #000;
+}
+
+.sidebar-inverse #sidebar .nav-main a.active, .sidebar-inverse #sidebar .nav-main a:focus, .sidebar-inverse #sidebar .nav-main a:hover {
+	border-left: 2px solid #1793c9;
+	background: #000;
+}
+
+.no-pr {
+	padding-right:0 !important;
+}
+
+#sidebar .nav-main a {
+    text-transform: none;
+	font-size: 14px;
+}
+
+.nav-submenu a:hover {
+	border-left: none !important;
+}
+
+.sidebar-inverse #sidebar .nav-main a {
+	color:#fff;
+}
+
+.alert-success {
+
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+
+}
+
+.alert-success hr {
+    border-top-color: #b1dfbb;
+}
+
+.img-fluid {
+	height:170px !important;
+}
+
+.no-radius {
+    border-radius: 0 !important;
+}
+
+.no-radius2 {
+    border-top-right-radius: 2px !important;
+    border-bottom-right-radius: 2px !important;
+}
+
+footer {
+    background-color: #18212a;
+    color: rgba(255, 255, 255, 0.75);
+    padding-bottom: .5em;
+    padding-top: .5em;
+}
+
+footer .footer-copy {
+    font-size: 14px;
+}
+
+
+@media (max-width: 767px) {
+    .app-login-box {
+        width: 100%;
+        margin: 1.5em auto;
+        padding: 1em;
+    }
+    .footer-copy {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 768px) {
+    .app-login-box {
+        width: 400px;
+        padding: 2.25em;
+    }
+}

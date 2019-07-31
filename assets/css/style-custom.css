@@ -1,0 +1,30 @@
+.lgx-select {
+	opacity: 0.5;
+}
+
+.lgx-label {
+	opacity: 0.5;
+}
+
+.lgx-file {
+	opacity: 0.5;
+	height: auto !important;
+}
+
+.lgx-radio {
+	opacity: 0.8;
+	padding-top: 15px;
+}
+
+input[type="file"]:focus,
+input[type="file"]:active {
+  outline: none;
+}
+
+.lgx-panel .lgx-single-schedule {
+	padding: 0 1.5rem !important;
+}
+
+.lgx-panel .lgx-single-schedule .schedule-info .title {
+	font-size: 2.1rem;
+}

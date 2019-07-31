@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"status",
+				"status_service"
+			],
+			[
+				"stat",
+				"status_service"
+			],
+			[
+				"id_service",
+				"id_service_center"
+			],
+			[
+				"id_ser",
+				"id_service_center"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"seria",
+				"serial_number"
+			],
+			[
+				"page",
+				"page_url"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"id_",
+				"id_level"
+			],
+			[
+				"id_le",
+				"id_levels"
+			],
+			[
+				"id",
+				"id_user"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"form",
+				"form-control"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/DEVELOP/egaransi/public/login/dologin.php",
+			"settings":
+			{
+				"buffer_size": 1554,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/DEVELOP/egaransi/public/login/store-distributor-view.php",
+		"/D/DEVELOP/egaransi/public/login/dashboard-customer-view.php",
+		"/D/DEVELOP/egaransi/public/login/dashboard-store-view.php",
+		"/D/DEVELOP/egaransi/public/login/store-distributor-query.php",
+		"/D/DEVELOP/egaransi/public/login/dashboard-servicecenter-view.php",
+		"/D/DEVELOP/egaransi/public/login/distribut.php",
+		"/D/DEVELOP/egaransi/public/login/sc.php",
+		"/D/DEVELOP/egaransi/public/login/function.php",
+		"/D/DEVELOP/egaransi/public/login/customer-servicecenter-query.php",
+		"/D/DEVELOP/egaransi/public/login/service-servicecenter-view.php",
+		"/D/DEVELOP/egaransi/public/login/service-servicecenter-query.php",
+		"/D/DEVELOP/egaransi/public/login/dashboard-servicecenter-query.php",
+		"/D/DEVELOP/egaransi/public/application/views/beranda.php",
+		"/D/DEVELOP/egaransi/public/application/config/database.php",
+		"/D/DEVELOP/egaransi/public/login/regproduct-store-add.php",
+		"/D/DEVELOP/egaransi/public/application/views/register.php",
+		"/D/DEVELOP/egaransi/public/login/claim-garansi-query.php",
+		"/D/DEVELOP/egaransi/public/login/customer-servicecenter-view.php",
+		"/D/DEVELOP/egaransi/public/login/claim-servicecenter-view.php",
+		"/D/DEVELOP/egaransi/public/login/add-service-query.php",
+		"/D/DEVELOP/egaransi/public/login/dologin.php",
+		"/D/DEVELOP/egaransi/public/login/redirect.php",
+		"/D/DEVELOP/egaransi/public/login/side-navigation.php",
+		"/D/DEVELOP/egaransi/public/login/store.php",
+		"/D/DEVELOP/egaransi/public/login/regproduct-store-add-query.php",
+		"/D/DEVELOP/egaransi/public/login/regproduct-store-update.php",
+		"/D/DEVELOP/egaransi/public/login/regproduct-store-view.php",
+		"/D/DEVELOP/egaransi/public/login/dashboard-store-query.php",
+		"/D/DEVELOP/egaransi/public/login/product-store-view.php",
+		"/D/DEVELOP/egaransi/public/login/side-navigation-query.php",
+		"/D/DEVELOP/egaransi/public/login/regproduct-store-query.php",
+		"/D/DEVELOP/egaransi/public/login/customer-store-query.php",
+		"/D/DEVELOP/egaransi/public/login/customer-store-view.php",
+		"/D/DEVELOP/egaransi/public/login/dashboard-customer-query.php",
+		"/D/DEVELOP/egaransi/public/login/regservice-customer-view.php",
+		"/D/DEVELOP/egaransi/public/login/listservice-customer-view.php",
+		"/D/DEVELOP/egaransi/public/login/api/get-service-center.php",
+		"/D/DEVELOP/egaransi/public/login/listservice-customer-query.php",
+		"/D/DEVELOP/egaransi/public/login/regservice-customer-query.php",
+		"/D/DEVELOP/egaransi/public/login/regservice-customer-update.php",
+		"/D/DEVELOP/egaransi/public/login/profile-cs.php",
+		"/D/DEVELOP/egaransi/public/login/sc-customer-view.php",
+		"/D/DEVELOP/egaransi/public/login/katalog-customer-view.php",
+		"/D/DEVELOP/egaransi/public/login/notfound.php",
+		"/D/DEVELOP/egaransi/public/login/produk-cs.php",
+		"/D/DEVELOP/egaransi/public/login/produk-cs-query.php",
+		"/D/DEVELOP/egaransi/public/login/regservice.php",
+		"/D/DEVELOP/egaransi/public/login/add-produk-query.php",
+		"/D/DEVELOP/egaransi/public/login/service-center.php",
+		"/D/DEVELOP/egaransi/public/application/config/config.php",
+		"/D/DEVELOP/egaransi/public/login/profile-cs-query.php",
+		"/D/DEVELOP/egaransi/public/login/daftar-admin-pr-query.php",
+		"/D/DEVELOP/egaransi/public/login/add-admin-pr.php",
+		"/D/DEVELOP/egaransi/public/login/assets/css/bootstrap.min.css",
+		"/D/DEVELOP/egaransi/public/login/daftar-admin-pr.php",
+		"/D/DEVELOP/egaransi/public/login/add-admin-pr-query.php",
+		"/D/DEVELOP/egaransi/public/login/side-navigation.query.php",
+		"/D/DEVELOP/egaransi/public/login/header.php",
+		"/D/DEVELOP/egaransi/public/login/profile-cs-query",
+		"/D/DEVELOP/egaransi/public/login/add-produk.php",
+		"/D/DEVELOP/egaransi/public/login/daftar-service-pr.php",
+		"/D/DEVELOP/egaransi/public/login/produsen.php",
+		"/D/DEVELOP/egaransi/public/application/views/register-store.php",
+		"/D/DEVELOP/egaransi/public/login/add-service-center-query.php",
+		"/D/DEVELOP/egaransi/public/login/content-header.php",
+		"/D/DEVELOP/egaransi/public/login/side-overlay.php",
+		"/D/DEVELOP/egaransi/public/application/controllers/Beranda.php",
+		"/D/DEVELOP/egaransi/public/login/ad-admin-pr.php",
+		"/D/DEVELOP/egaransi/public/login/add-service-center.php",
+		"/D/DEVELOP/egaransi/public/login/service-center-query.php",
+		"/D/DEVELOP/egaransi/public/login/daftar-claim-cs-query.php",
+		"/D/DEVELOP/egaransi/public/login/daftar-service.php",
+		"/D/DEVELOP/egaransi/public/login/daftar-claim-cs.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"?page=daftar-service-pr",
+			"be_pages_generic_profile",
+			"cari ser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/DEVELOP/egaransi/public/login/dologin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								1038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "doku.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
